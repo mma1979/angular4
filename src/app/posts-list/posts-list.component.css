@@ -1,0 +1,8 @@
+table{
+    background: #000;
+}
+
+tr, td, th{
+    background: #fff;
+    padding: 0 5px 0 5px;
+}
